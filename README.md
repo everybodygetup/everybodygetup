@@ -20,4 +20,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everybodygetup&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/03660ee0-7050-4cd1-9200-b0fdc65a4109/project/31319048-5983-4c9e-a759-2c1a918ee973.svg)](https://wakatime.com/badge/user/03660ee0-7050-4cd1-9200-b0fdc65a4109/project/31319048-5983-4c9e-a759-2c1a918ee973)
